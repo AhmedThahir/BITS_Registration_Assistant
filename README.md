@@ -17,6 +17,14 @@ f ->> b: Request
 b ->> User: Return list of possible courses<br/>grouped by schedule
 ```
 
+Sample of a list of possible courses grouped by schedule:
+
+- M3 W1 F4 - ML, FDS, NLP
+- M2 W7 F1 - AI
+- M8 T1 W1 - Blockchain, Robotics
+
+  ...
+
 ## Suggest Toolset for Prototype
 
 |                      |                                                              |
